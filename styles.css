@@ -72,13 +72,11 @@
 /* Hero Section */
 
 .hero-section__container {
-    max-width: 1440px;
     /*padding-left: 80px;
     padding-right: 80px;
     padding-top: 80px;
     padding-bottom: 80px;*/
     padding: 80px;
-    margin: 0 auto;
 
     display: flex;
     align-items: center;
@@ -134,9 +132,6 @@
 }
 
 .welcome-section__container {
-    max-width: 1440px;
-    margin: 0 auto;
-
     display: flex;
     align-items: center;
     padding-top: 80px;
@@ -177,8 +172,6 @@
 /* Menu Section */
 
 .menu-section__container {
-    max-width: 1440px;
-    margin: 0 auto;
     padding: 80px;
 }
 
@@ -265,8 +258,6 @@
     padding-right: 80px;
     padding-top: 80px;
     padding-bottom: 80px;
-    max-width: 1440px;
-    margin: 0 auto;
 
     display: flex;
     align-items: center;
@@ -311,8 +302,6 @@
 }
 
 .chefs-section__container {
-    max-width: 1440px;
-    margin: 0 auto;
     padding: 80px;
 }
 
@@ -386,8 +375,6 @@
 }
 
 .testimonials-section__container {
-    max-width: 1440px;
-    margin: 0 auto;
     padding: 80px;
 }
 
@@ -442,9 +429,7 @@
 /* Business Hours Section */
 
 .hours-section__container {
-    max-width: 1440px;
     padding: 80px;
-    margin: 0 auto;
 }
 
 .hours-section__background {
@@ -499,8 +484,6 @@
 }
 
 .footer__container {
-    max-width: 1440px;
-    margin: 0 auto;
     padding: 80px;
 }
 
