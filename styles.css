@@ -128,7 +128,7 @@
 /* Welcome Section */
 
 #welcome-section {
-    background-color: rgb(63, 198, 110, 0.102);
+    background-color: rgba(63, 198, 110, 0.102);
 }
 
 .welcome-section__container {
@@ -213,7 +213,7 @@
     width: calc((100% - 80px) / 3);
 
     padding: 35px 37px;
-    background-color: rgb(208, 204, 199, 0.2);
+    background-color: rgba(208, 204, 199, 0.2);
     border-radius: 70px;
 }
 
